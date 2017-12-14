@@ -50,11 +50,10 @@
         "cordova-plugin-wkwebview-engine": "https://github.com/driftyco/cordova-plugin-wkwebview-engine.git",
         "imgcache.js": "^1.1.1",
         "ionic-angular": "2.3.0",
-        "ionic-native": "^3.5.0",
+        "ionic-native": "^2.9.0",
         "ionic-plugin-keyboard": "~2.2.1",
         "ionic2-rating": "^1.2.0",
-      "ionic2-tags-input": "^1.0.6",
-
+        "ionic2-tags-input": "^1.0.6",
         "ionicons": "3.0.0",
         "jquery": "^3.2.1",
         "ng2-select2": "^1.0.0-beta.10",
